@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(236, 0, 0);
+}
+
+ul {
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: brown;
+}
+
+footer {
+    color: indigo;
+}
+
+.firstcard {
+    color: rgb(0, 51, 255);
+}
+
+.secondcard {
+    color: rgb(20, 220, 140);
+}
+
+.thirdcard {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: grid;
+    padding: 5%;
+}
+
+.socialsharing {
+    display: flex;
+    padding-top: 20%;
+}
+
+.socialsection {
+    display: block;
+}
+
+.avatar {
+    padding: 4%;
+    display: grid;
+}
+
+img {
+    width: 90%;
+}
